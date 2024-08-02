@@ -7,7 +7,7 @@
 |박장우<br/>[@Lisiant](https://github.com/Lisiant)|박현서<br/>[@hyleei](https://github.com/hyleei)|구동길<br/>[@dkac0012](https://github.com/dkac0012)|
 
 # 🗂️ 테이블 구조
-
+ 
 ### 팀
 
 | TEAM_ID | TEAM_NAME |
